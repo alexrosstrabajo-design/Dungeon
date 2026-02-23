@@ -37,14 +37,3 @@ Tools used:
 5. mp3cut
 
 ---
-
-## Release
-
-Platform: Windows, MacOS</br>
-Game is free to download on [itch.io](https://heathro.itch.io/dungeon).</br>
-Game trailer available on [youtube.com](https://www.youtube.com/watch?v=CK7C5ZkouTI).</br>
-
----
-
-## Repo
-Assets missing in this repo, to avoid redistributing.
